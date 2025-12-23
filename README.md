@@ -1,6 +1,6 @@
 # 守候网络官网地址
 
-最新地址：[xttlove.uk](https://ncdn1.sntp.uk/auth/register?code=Ai8LiC57)
+最新地址：[newsntp.net](https://dash2.newsntp.net/auth/register?code=Ai8LiC57)
 
 ## 守候网络介绍
 
@@ -10,19 +10,21 @@
 
 守候网络| “12·12”暨年终促销
 
-优惠码：1212
+优惠码：[1212](https://dash2.newsntp.net/auth/register?code=Ai8LiC57)
 
 充值赠金：8%
 
 ## 守候网络价格
 
+年付相对更便宜，套餐赠送守候影院。
+
 |套餐|Lite冲浪套餐|轻量套餐|豪华版套餐|豪华版套餐Pro|
 |----|----|----|----|----|
 |月付|¥15|¥20|¥35|¥45|
-|季付|¥41|¥54|¥95|¥122|
 |半年付|¥77|¥102|¥179|¥230|
 |年付|¥144|¥192|¥336|¥432|
+|每月流量|88G|150G|350G|500G|
 
 **年付**
 
-Premium-高级套餐，每月流量:1000GB ¥768.00 /每年
+[Premium-高级套餐](https://dash2.newsntp.net/auth/register?code=Ai8LiC57)，每月流量1000GB（赠送Pre守候影院），¥888/每年
